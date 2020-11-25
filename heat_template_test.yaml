@@ -1,6 +1,6 @@
 heat_template_version: newton
 
-description: Setup infrastructure for testing F5 Heat Templates.
+description: Setup  infrastructure for testing F5 Heat Templates.
 
 parameters:
 
